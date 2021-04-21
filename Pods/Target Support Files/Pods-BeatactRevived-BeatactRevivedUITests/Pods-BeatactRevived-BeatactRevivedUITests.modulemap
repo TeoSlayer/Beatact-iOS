@@ -1,0 +1,6 @@
+framework module Pods_BeatactRevived_BeatactRevivedUITests {
+  umbrella header "Pods-BeatactRevived-BeatactRevivedUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

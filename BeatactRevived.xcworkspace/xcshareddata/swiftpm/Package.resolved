@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "iPhoneNumberField",
+        "repositoryURL": "https://github.com/MojtabaHs/iPhoneNumberField.git",
+        "state": {
+          "branch": null,
+          "revision": "a6b5fcc6c9b085285932fe4fe754086ab92409cb",
+          "version": "0.6.1"
+        }
+      },
+      {
+        "package": "PhoneNumberKit",
+        "repositoryURL": "https://github.com/marmelroy/PhoneNumberKit",
+        "state": {
+          "branch": null,
+          "revision": "1ef0431b971f69c48ca5eb4cdba07f2c5da54c35",
+          "version": "3.3.3"
+        }
+      },
+      {
+        "package": "Stripe",
+        "repositoryURL": "https://github.com/stripe/stripe-ios",
+        "state": {
+          "branch": "mc-beta-2",
+          "revision": "afeb50345446f889ca4cc076299ff6e4143e222d",
+          "version": null
+        }
+      },
+      {
+        "package": "Sliders",
+        "repositoryURL": "https://github.com/spacenation/swiftui-sliders.git",
+        "state": {
+          "branch": null,
+          "revision": "5109792d45a53c3c41680b8bdb0602b5dde39c9a",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "URLImage",
+        "repositoryURL": "https://github.com/eMdOS/URLImage.git",
+        "state": {
+          "branch": "master",
+          "revision": "6daa83ecb94edafb679f9d3e1afbe2db25028b71",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
