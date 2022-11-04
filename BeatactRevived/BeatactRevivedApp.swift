@@ -25,9 +25,9 @@ struct BeatactRevivedApp: App {
         
         FirebaseApp.configure()
         FirebaseConfiguration.shared.setLoggerLevel(.min)
-        Stripe.setDefaultPublishableKey("pk_test_51H30KpDnwFAoDU0Q6r1LB893uzQB6EeKz9vAmrf01OdP6SF9BMqGcxiYlrwFE2G2FV1VezwJvBdDGqttKy5lCvbV00W79OKogW")
+        Stripe.setDefaultPublishableKey("")
         SentrySDK.start { options in
-            options.dsn = "https://fa5f008741dd4b968043a21792d995d4@o418234.ingest.sentry.io/5320523"
+            options.dsn = ""
             options.debug = true // Enabled debug when first installing is always helpful
         }
         
